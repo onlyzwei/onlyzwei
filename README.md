@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# — Sobre mim:
 
 Atualmente, estou estudando Ciência da Computação na Universidade Federal Fluminense (UFF) e estou no 2º período do curso. Durante minha jornada acadêmica, tenho aprendido algumas linguagens de programação como Python, C, C# e Lua. Estou aberto a novas oportunidades de trabalho e colaborações em projetos interessantes. Sinta-se à vontade para entrar em contato comigo!👇
 
