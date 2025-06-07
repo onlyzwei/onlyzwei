@@ -1,3 +1,3 @@
 # — Sobre mim:
 
-Estudante de Ciência da Computação na Universidade Federal Fluminense (UFF).
+Meus repositórios só tem alguns jogos bobos, mas aos poucos estou tentando botar algumas coisas mais interessantes.
