@@ -1,5 +1,5 @@
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,java,c,nodejs)](https://skillicons.dev)<br><br>
+## 🚀 Conhecimentos
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,nodejs,linux)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,docker)](https://skillicons.dev)<br><br>
