@@ -1,32 +1,20 @@
-🎯 **Desenvolvedor Backend** | 💻 **Python (Flask, FastAPI)** | ⚙️ **Node.js (Express)**  
-🎓 **Ciência da Computação** - **Universidade Federal Fluminense**  
+**Backend Developer** • *Python (Flask, FastAPI)* • *Node.js (Express)*  
+🎓 *Ciência da Computação — Universidade Federal Fluminense (UFF)*  
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## 🧩 Stack Principal  
+**Linguagens & Frameworks:**  
+🐍 Python | 🟩 Node.js  
+🔹 Flask • FastAPI • Express  
 
-### 🐍 Python
-- Flask  
-- FastAPI  
-- SQLAlchemy  
+**Banco de Dados:**  
+🗄️ PostgreSQL • MySQL • MariaDB  
 
-### 🟩 Node.js
-- Express  
-- Prisma 
-
-### 🗄️ Banco de Dados
-- PostgreSQL  
-- MySQL 
-- MariaDB  
-
-### ⚙️ Outras
-- Docker  
-- Git & GitHub  
-- RESTful APIs
+**Ferramentas:**  
+⚙️ Docker • Git/GitHub • RESTful APIs • Prisma • SQLAlchemy  
 
 ---
 
-## 📫 Como me encontrar
-- **Email:** [lucasmirandaniteroi@gmail.com]
-
----
+## 📬 Contato  
+✉️ [lucasmirandaniteroi@gmail.com](mailto:lucasmirandaniteroi@gmail.com)  
